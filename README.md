@@ -13,6 +13,11 @@
 
 ---
 
+## 🔥 News
+- [2025/06/20] The code are publicly available! 🚀
+- [2026/06/13] Hepto-LLaVA has been accepted at MICCAI 2026 as a poster! 🎉
+- [2026/03/01] Hepto-LLaVA is now live on arXiv! 🔥
+
 ## 👀 Introduction
 
 <p align="center">
