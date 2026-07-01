@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://pris-cv.github.io/Hepto-LLaVA/"><img src="https://img.shields.io/badge/GitHub-Page-181717?logo=github" alt="GitHub"></a>
   <a href="https://arxiv.org/abs/2602.19424"><img src="https://img.shields.io/badge/arXiv-Paper-b31b1b?logo=arxiv" alt="arXiv"></a>
-  <a><img src="https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Coming%20Soon-yellow" alt="HuggingFace"></a>
+  <a href="https://huggingface.co/datasets/wssf8727/Hepato-llava"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Dataset-yellow" alt="HuggingFace Dataset"></a>
 </p>
 
 ---
